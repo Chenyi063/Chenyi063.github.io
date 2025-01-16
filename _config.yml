@@ -21,7 +21,7 @@ repository               : "Chenyi063/Chenyi063.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/me.png"
+  avatar           : "profile.png"
   name             : "Chenyi Lin"
   pronouns         : # example: "she/her"  
   bio              : "Speech Machine Learning Researcher"
